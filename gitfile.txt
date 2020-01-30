@@ -1,5 +1,5 @@
 Class Welcome{
-	Public static void main(){
+	public static void main(){
 		system.out.prinltn("Welcome");
 	}
 }
