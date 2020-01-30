@@ -1,1 +1,5 @@
-I am ronodeep
+Class Welcome{
+	Public static void main(){
+		system.out.prinltn("Welcome");
+	}
+}
