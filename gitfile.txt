@@ -3,5 +3,7 @@ Class Welcome{
 		system.out.prinltn("Welcome");
 	}
 	public void reset(){
+	int a,b,c;
+	a=b+c;
 	}
 }
