@@ -3,7 +3,8 @@ Class Welcome{
 		system.out.prinltn("Welcome");
 	}
 	public void reset(){
-	int a,b,c;
-	a=b+c;
+	int a,b,c,d;
+	a=b+c+d;
+	sysout("This statement may conflicts")
 	}
 }
