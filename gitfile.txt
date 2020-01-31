@@ -9,4 +9,6 @@ Class Welcome{
 	sysout(a)
 	sysout(b)
 	}
+	void display(){
+	}
 }
