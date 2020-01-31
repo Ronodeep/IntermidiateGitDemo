@@ -3,6 +3,7 @@ Class Welcome{
 		system.out.prinltn("Welcome");
 	}
 	public void reset(){
+	String var;
 	int a,b,c,d;
 	a=b+c+d;
 	sysout(a)
