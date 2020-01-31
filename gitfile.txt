@@ -6,5 +6,6 @@ Class Welcome{
 	int a,b,c,d;
 	a=b+c+d;
 	sysout(a)
+	sysout(b)
 	}
 }
