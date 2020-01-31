@@ -2,7 +2,6 @@ Class Welcome{
 	public static void main(){
 		system.out.prinltn("Welcome");
 	}
-	public void add(){
-		int a =int b + int c;
+	public void reset(){
 	}
 }
